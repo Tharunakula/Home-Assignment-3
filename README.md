@@ -6,7 +6,7 @@
 
 **student ID:-700759411.**
 
-**Home Assignment 2.**
+**Home Assignment 3.**
 
 Q1: Implementing a Basic Autoencoder
 
